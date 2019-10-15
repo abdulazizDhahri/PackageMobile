@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_day"
+        android:orderInCategory="100"
+        android:title="TODAY'S DATA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_week"
+        android:orderInCategory="100"
+        android:title="THIS WEEK'S DATA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_month"
+        android:orderInCategory="100"
+        android:title="THIS MONTH'S DATA"
+        app:showAsAction="never" />
+
+</menu>

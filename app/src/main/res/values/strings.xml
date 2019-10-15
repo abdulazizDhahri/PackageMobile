@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AMAS</string>
+    <string name="id_number">ID Number</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
